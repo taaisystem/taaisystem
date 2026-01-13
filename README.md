@@ -17,12 +17,13 @@ Meu foco é me tornar uma desenvolvedora completa, aliando código, design e boa
 ## 💻 Habilidades Técnicas
 
 - 🔴 HTML5 e CSS3 (estruturação e estilização de páginas)
-- 🟣 Python (lógica, funções)
-- 🔴 Javascript (Básico)
-- 🟣 Git e GitHub (controle de versão)
-- 🔴 Figma (protótipos e wireframes)
-- 🟣 Visual Studio Code (VS Code)
-- 🔴 Excel básico (fórmulas, gráficos simples)
+- 🟣 Python (Básico)
+- 🔴 Javascript (Intermediário)
+- 🟣 Java(Básico)
+- 🔴 Git e GitHub (controle de versão)
+- 🟣 Figma (protótipos e wireframes)
+- 🔴 Visual Studio Code (VS Code)
+- 🟣 Excel básico (fórmulas, gráficos simples)
 
 ---
 
